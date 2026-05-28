@@ -1,11 +1,9 @@
-# Capstone 2: Business Analysis with Python
+# **Capstone 2: Business Analysis with Python**
 
 ## Project Overview
+*This project analyzes sales data for EmporiUm, a fictional student bookstore chain. Using Python and Jupyter Notebook, I cleaned, explored, and analyzed sales data to compare two assigned sales territories.*
 
-This project analyzes sales data for EmporiUm, a fictional student bookstore chain. Using Python and Jupyter Notebook, I cleaned, explored, and analyzed sales data to compare two assigned sales territories.
-
-The project includes:
-
+**The project includes:**
 * Data cleaning and analysis using pandas
 * Sales and customer analysis
 * Revenue and transaction trends
@@ -15,16 +13,14 @@ The project includes:
 
 ---
 
-## Territories Analyzed
-
-* Assigned Territory: [Jim Heck , West ]
-* Comparison Territory: [Andy Gisselquist , South]
+## Territories Analyzed:
+**Assigned Territory:** Jim Heck, West
+**Comparison Territory:** Andy Gisselquist, South
 
 ---
 
-## Questions Explored
-
-This project answers questions such as:
+## Questions Explored:
+**This project answers questions such as:**
 
 * Who manages each territory?
 * Which stores performed best?
@@ -35,8 +31,7 @@ This project answers questions such as:
 
 ---
 
-## Tools Used
-
+## Tools Used:
 * Python
 * Jupyter Notebook
 * pandas
@@ -45,17 +40,15 @@ This project answers questions such as:
 
 ---
 
-## Files Included
-
+## Files Included:
 * `navarroservin_sales_analysis.ipynb` → Main analysis notebook
 * `README.md` → Project overview
 * CSV data files used for analysis
 
 ---
 
-## Visualizations
-
-This project includes charts showing:
+## Visualizations:
+**This project includes charts showing:**
 
 * Monthly revenue trends
 * Store sales performance
@@ -64,16 +57,14 @@ This project includes charts showing:
 
 ---
 
-## Video Presentation
-
-Project walkthrough and results:
+## Video Presentation:
+**Project walkthrough and results:**
 
 [  LINK  ]
 
 ---
 
-## Key Takeaways
-
+## Key Takeaways:
 * I want to highlight this insight...
 * I want to highlight this insight...
 * My marketing recommendation: 
