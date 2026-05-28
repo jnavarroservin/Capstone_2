@@ -47,7 +47,7 @@ This project answers questions such as:
 
 ## Files Included
 
-* `lastname_sales_analysis.ipynb` → Main analysis notebook
+* `navarroservin_sales_analysis.ipynb` → Main analysis notebook
 * `README.md` → Project overview
 * CSV data files used for analysis
 
