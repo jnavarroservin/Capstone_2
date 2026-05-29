@@ -14,8 +14,8 @@
 ---
 
 ## Territories Analyzed:
-**Assigned Territory:** Jim Heck, West
-**Comparison Territory:** Andy Gisselquist, South
+- **Assigned Territory:** Jim Heck, West
+- **Comparison Territory:** Jeff "Howdy" Richards, South
 
 ---
 
@@ -41,9 +41,12 @@
 ---
 
 ## Files Included:
-* `navarroservin_sales_analysis.ipynb` → Main analysis notebook
-* `README.md` → Project overview
-* CSV data files used for analysis
+* navarroservin_sales_analysis.ipynb
+* StoreSales.csv
+* StoreDetail.csv
+* Products.csv
+* ProductCategories.csv
+* customer_list.csv
 
 ---
 
@@ -51,23 +54,20 @@
 **This project includes charts showing:**
 
 * Monthly revenue trends
-* Store sales performance
-* Product category transactions
-* Sales comparisons between territories
+* Revenue by product category
+* Store performance
 
 ---
 
 ## Video Presentation:
 **Project walkthrough and results:**
 
-[  LINK  ]
+https://www.loom.com/share/173f536a80174ea39ad79928d1781c9f
 
 ---
 
 ## Key Takeaways:
-* I want to highlight this insight...
-* I want to highlight this insight...
-* My marketing recommendation: 
+The best opportunities for growth based on the analysis is to concentrate on the highest selling product categories, this prioritizes high revenue locations and will help EmporiUm retain the top reward customers. These high revenue results will also help EmporiUm grow upon their return of investements.
 
 ---
 
