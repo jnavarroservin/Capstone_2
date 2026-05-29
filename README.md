@@ -14,8 +14,8 @@
 ---
 
 ## Territories Analyzed:
-**Assigned Territory:** Jim Heck, West
-**Comparison Territory:** Jeff "Howdy" Rcihards, South
+- **Assigned Territory:** Jim Heck, West
+- **Comparison Territory:** Jeff "Howdy" Richards, South
 
 ---
 
