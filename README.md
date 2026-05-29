@@ -15,7 +15,7 @@
 
 ## Territories Analyzed:
 **Assigned Territory:** Jim Heck, West
-**Comparison Territory:** Andy Gisselquist, South
+**Comparison Territory:** Jeff "Howdy" Rcihards, South
 
 ---
 
